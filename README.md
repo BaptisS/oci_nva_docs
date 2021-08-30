@@ -5,6 +5,7 @@
 
 
 ```
+https://github.com/oracle-quickstart/oci-fortinet
 https://github.com/oracle-quickstart/oci-check-point
 https://github.com/oracle-quickstart/oci-cisco
 https://github.com/oracle-quickstart/oci-palo-alto-networks
